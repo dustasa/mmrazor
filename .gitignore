@@ -111,7 +111,7 @@ venv.bak/
 *.pkl
 *.pkl.json
 *.log.json
-/work_dirs
+/work_dir
 /mmrazor/.mim
 
 # Pytorch
